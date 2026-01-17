@@ -29,7 +29,7 @@
 ## 技术栈
 
 *   **前端三件套**: HTML5 、CSS3 、JavaScript
-*   **UI框架**: Bootstrap 5
+*   **UI 框架**: Bootstrap 5
 *   **核心存储**: 浏览器 LocalStorage
 *   **关键开源库**:
     *   `PDF.js`: 实现 PDF 文件在线预览。
